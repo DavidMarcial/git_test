@@ -1,1 +1,3 @@
 Adding text to the hello_world file
+Made a change so it will open a new tab in VS Code instead
+of adding a message
